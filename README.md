@@ -11,7 +11,7 @@ My name is Jakub - in the Internet mostly known as Smokey; For about five years 
 * 🧠  I'm learning my way around creating API's.
 * ⚡  I don't work on FiveM projects anymore :(
 
-<a href="https://www.github.com/smokeydev" target="_blank" rel="noreferrer">
+<a href="https://github.com/SmokeyDev?tab=followers" target="_blank" rel="noreferrer">
   <img src="https://img.shields.io/github/followers/smokeydev?logo=github&style=for-the-badge&color=10b981&labelColor=1c1917" />
 </a>
 
