@@ -4,7 +4,7 @@ Hi 👋 My name is Jakub Korek
 Full Stack Developer
 -------------
 
-My name is Jakub - in the Internet mostly known as Smokey; For about five years I've been creating mods for GTA V game in the FiveM. Mods mostly written in Lua and frontend in HTML with a lot of jQuery. During this time I've been creating and managing two of the most known Polish servers in role-play mode. I made a decision to stop working on GTA mods, hence I've started to make Minecraft server in Java with my friend. After that I have made a new server in Counter Strike: Global Offensive to gather more experience in SourcePawn. When I've finished another project I was focused on developing my skills in making web pages and applications. Some time ago I've decided to start something new and that was next gaming project - Metin 2 server. I was mainly working in C++ and Python. In a meanwhile I've been also making some smaller projects in C#. A while ago I've helped with creating advanced web pages and online stores with WordPress. Also I like to make my own graphic designs of web pages that I make. Currently I'm working in a company as Full Stack Developer, where I learn more about API's, backend overall and where I improve my all around skills.
+My name is Jakub - in the Internet mostly known as Smokey;
 
 * 🌍  I'm based in Poland.
 * 🖥️  See my portfolio at [smokeydev.pl](http://smokeydev.pl)
@@ -29,6 +29,9 @@ My name is Jakub - in the Internet mostly known as Smokey; For about five years 
   </a>
   <a href="https://www.php.net/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/php-colored.svg" width="36" height="36" alt="PHP" />
+  </a>
+  <a href="https://nestjs.com/" target="_blank" rel="noreferrer">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/a/a8/NestJS.svg" width="36" height="36" alt="NestJS" />
   </a>
   <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" width="36" height="36" alt="TypeScript" />
