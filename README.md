@@ -8,7 +8,6 @@ My name is Jakub - in the Internet mostly known as Smokey;
 
 * 🌍  I'm based in Poland.
 * 🖥️  See my portfolio at [smokeydev.pl](http://smokeydev.pl)
-* 🧠  I'm learning my way around creating API's.
 * ⚡  I don't work on FiveM projects anymore :(
 
 <a href="https://github.com/SmokeyDev?tab=followers" target="_blank" rel="noreferrer">
