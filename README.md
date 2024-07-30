@@ -85,10 +85,3 @@ My name is Jakub - in the Internet mostly known as Smokey;
     <img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=smokeydev&repo=fighterjet-hud&title_color=22c55e&text_color=ffffff&icon_color=10b981&bg_color=1c1917&hide_border=true&locale=en" />
   </a>
 </div>
-<br /><br /><br /><br /><br /><br /><br />
-
-### Support Me
-
-<a href="https://www.buymeacoffee.com/smokeydev">
-  <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200" />
-</a>
